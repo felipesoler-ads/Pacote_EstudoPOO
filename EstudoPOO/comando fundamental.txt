@@ -1,0 +1,2 @@
+py setup.py sdist
+py -m twine upload --repositury-url https://upload.pypi.org/legacy/ disti/*
